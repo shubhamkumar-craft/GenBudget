@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BitcountSingle-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf",
+      "sha1": "612b7472820e485c44828a509603e2537c8260b9"
+    },
+    {
+      "path": "src/assets/fonts/BlackOpsOne-Regular.ttf",
+      "sha1": "97681055a571ab5cb0c278d92ed1159e7ab7018f"
+    }
+  ]
+}
